@@ -9,7 +9,7 @@
     "firebase": "^7.4.0",
     "firebase-tools": "^7.10.0",
     "js-sha256": "^0.9.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.11.0",
     "react-alert": "^6.0.0",
     "react-alert-template-basic": "^1.0.0",
